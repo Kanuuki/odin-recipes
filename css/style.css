@@ -1,0 +1,14 @@
+body{
+  background-color: Yellow;
+  font-family: system-ui;
+  font-size: 19px
+}
+
+h1{
+  color: Orange;
+  font-size: 40px
+}
+
+p{
+  color: White
+}
