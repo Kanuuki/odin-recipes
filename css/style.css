@@ -10,9 +10,10 @@ h1{
 }
 
 p{
-  color: White
+  color: #3333cc;
+  font-family: monospace
 }
 
-div{
-  background-color
+body{
+  background-color: white
 }
